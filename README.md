@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**resarahman/resarahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
 
-Here are some ideas to get you started:
+Hi, I'm Resa Rahman , I'm a fullstack web developer. I live in Bandung, West Java, Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Performance Overall
+
+![github stats](https://github-readme-stats.vercel.app/api?username=resarahman&show_icons=true)
+
+## Current activity
+
+- 🔭 I’m currently working on ThemeFusion
+- 📫 You can reach me on email resa.rahman@gmail.com
