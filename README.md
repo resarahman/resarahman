@@ -10,5 +10,5 @@ Hi, I'm Resa Rahman , I'm a fullstack web developer. I live in Bandung, West Jav
 
 ## Current activity
 
-- 🔭 I’m currently working on [ThemeFusion](https://theme-fusion.com)
+- 🔭 I’m currently working freelance
 - 📫 You can reach me on email resa.rahman@gmail.com
